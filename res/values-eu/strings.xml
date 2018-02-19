@@ -66,7 +66,6 @@
   <string name="msgs_illegal_argument">Lege kontrako argumentua. Inbokazioak huts egin du.</string>
   <string name="msgs_unresolved_inconsistencies">Eragiketa ez da zilegi inkoherentziak sortuko lituzkeelako.</string>
   <string name="msgs_operation_not_allowed_in_current_directory">Eragiketa ez da uneko karpetan zilegi.\n\nXede karpeta ezin da iturri bera edo honen azpikarpeta bat izan.</string>
-  <string name="msgs_push_again_to_exit">Berriro sakatu irteteko.</string>
   <string name="msgs_not_registered_app">Ez dago hautatutako fitxategia irekitzeko aplikaziorik erregistratuta.</string>
   <string name="msgs_overwrite_files">Fitxategiren bat helmugako karpetan existitzen da jada.\n\n Gainidatzi?</string>
   <string name="msgs_action_association_failed">Ekintza aplikazioari lotzeak huts egin du.</string>

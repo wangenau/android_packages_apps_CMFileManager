@@ -67,7 +67,6 @@
   <string name="msgs_illegal_argument">非法参数. 调用失败.</string>
   <string name="msgs_unresolved_inconsistencies">此操作不被允许，因为它会产生不一致性.</string>
   <string name="msgs_operation_not_allowed_in_current_directory">当前文件夹不允许此操作。 \n\n目标文件夹不能为源文件夹的子文件夹或与源文件夹相同。</string>
-  <string name="msgs_push_again_to_exit">再次点击即可退出.</string>
   <string name="msgs_not_registered_app">没有任何与此类型文件关联的应用。</string>
   <string name="msgs_overwrite_files">
     有些文件在目标文件夹内已存在.\n\n是否覆盖?</string>

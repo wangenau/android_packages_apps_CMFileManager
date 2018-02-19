@@ -66,7 +66,6 @@
   <string name="msgs_illegal_argument">Kural dışı ifade. İşlem başarısız.</string>
   <string name="msgs_unresolved_inconsistencies">Kararsızlıklara yol açacağından işleme izin verilmiyor.</string>
   <string name="msgs_operation_not_allowed_in_current_directory">Şimdiki klasörde işleme izin verilemiyor.\n\nHedef klasör kaynağın alt klasörü ya da kaynakla aynı klasör olamaz.</string>
-  <string name="msgs_push_again_to_exit">Çıkmak için tekrar basın.</string>
   <string name="msgs_not_registered_app">Seçilen türde dosyayı işleyecek uygulama belirlenmedi.</string>
   <string name="msgs_overwrite_files">Bazı dosyalar hedef klasörde zaten var.\n\nÜzerine yazılsın mı?</string>
   <string name="msgs_action_association_failed">İşlevi uygulamayla ilişkilendirme başarısız oldu.</string>

@@ -66,7 +66,6 @@
   <string name="msgs_illegal_argument">Argument illégal. Invocation échouée.</string>
   <string name="msgs_unresolved_inconsistencies">Opération non autorisée pour cause d\'incohérences</string>
   <string name="msgs_operation_not_allowed_in_current_directory">Opération non autorisée dans le dossier actuel</string>
-  <string name="msgs_push_again_to_exit">Appuyer encore pour sortir</string>
   <string name="msgs_not_registered_app">Aucune application disponible pour ouvrir le fichier sélectionné</string>
   <string name="msgs_overwrite_files">Certains fichiers existent déjà dans le dossier de destination.\n\nEcraser\u00A0?</string>
   <string name="msgs_action_association_failed">Impossible d\'associer l\'action à l\'application</string>

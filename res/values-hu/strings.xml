@@ -66,7 +66,6 @@
   <string name="msgs_illegal_argument">Érvénytelen paraméter, sikertelen futtatás.</string>
   <string name="msgs_unresolved_inconsistencies">A művelet nem engedélyezett, mert következetlenséget okozna.</string>
   <string name="msgs_operation_not_allowed_in_current_directory">A művelet nem engedélyezett a jelenlegi könyvtárban.\n\nA célkönyvtár nem lehet azonos a forrás könyvtárral, és nem lehet annak alkönyvtára.</string>
-  <string name="msgs_push_again_to_exit">Nyomja meg mégegyszer a kilépéshez.</string>
   <string name="msgs_not_registered_app">A kijelölt fájltípushoz nincs alkalmazás társítva.</string>
   <string name="msgs_overwrite_files">Néhány fájl már létezik a célkönyvtárban.\n\nFelülírja?</string>
   <string name="msgs_action_association_failed">A műveletet nem sikerült társítani az alkalmazáshoz.</string>

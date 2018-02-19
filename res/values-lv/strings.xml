@@ -66,7 +66,6 @@
   <string name="msgs_illegal_argument">Nepareizs arguments. Izsaukums neizdevās.</string>
   <string name="msgs_unresolved_inconsistencies">Darbība nav atļauta, jo tā varētu radīt nesaskaņas.</string>
   <string name="msgs_operation_not_allowed_in_current_directory">Darbība pašreizējā mapē nav atļauta.\n\nMērķa mape nevar būt avota mape, vai avota mapes apakšmape.</string>
-  <string name="msgs_push_again_to_exit">Lai izietu, nospiediet vēlreiz.</string>
   <string name="msgs_not_registered_app">Nav reģistrēta lietotne, kura varētu apstrādāt izvēlēto faila veidu.</string>
   <string name="msgs_overwrite_files">Daži faili mērķa mapē jau pastāv.\n\nPārrakstīt?</string>
   <string name="msgs_action_association_failed">Sasaistīt darbību ar lietotni neizdevās.</string>

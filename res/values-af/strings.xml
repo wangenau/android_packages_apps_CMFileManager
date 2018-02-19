@@ -67,7 +67,6 @@
   <string name="msgs_unresolved_inconsistencies">Die werking word nie toegelaat nie want dit skep teenstrydighede.</string>
   <string name="msgs_operation_not_allowed_in_current_directory">
     Die operasie word nie toegelaat in die huidige vouergids nie.\n\nBestemmings vouergids kan nie \'n sub-vouergids van bron of dieselfde as die bron wees nie.</string>
-  <string name="msgs_push_again_to_exit">Raak weer om te beeindig.</string>
   <string name="msgs_not_registered_app">Daar is geen program geregistreer om die tipe lêer oop te maak nie.</string>
   <string name="msgs_overwrite_files">Sommige van die lêers bestaan reeds in die teiken vouergids.\n\nOorskryf??</string>
   <string name="msgs_action_association_failed">Die geassosieerde program aksie het misluk.</string>

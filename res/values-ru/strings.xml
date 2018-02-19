@@ -66,7 +66,6 @@
   <string name="msgs_illegal_argument">Недопустимый аргумент. Вызов не удался</string>
   <string name="msgs_unresolved_inconsistencies">Невозможно выполнить операцию.\n\nЭто приведёт к созданию несоответствий файловой системы.</string>
   <string name="msgs_operation_not_allowed_in_current_directory">Невозможно выполнить операцию.\n\nНельзя переместить папку саму в себя.</string>
-  <string name="msgs_push_again_to_exit">Нажмите ещё раз для выхода</string>
   <string name="msgs_not_registered_app">Не найдено приложений для открытия файлов данного типа</string>
   <string name="msgs_overwrite_files">Некоторые файлы уже существуют в папке назначения.\n\nЗаменить?</string>
   <string name="msgs_action_association_failed">Привязка приложения к действию не удалась</string>

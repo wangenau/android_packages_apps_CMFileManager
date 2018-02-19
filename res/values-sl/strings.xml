@@ -66,7 +66,6 @@
   <string name="msgs_illegal_argument">Neveljaven argument. Priklic je spodletel.</string>
   <string name="msgs_unresolved_inconsistencies">Opravilo ni dovoljeno, ker bi to ustvarilo neskladja.</string>
   <string name="msgs_operation_not_allowed_in_current_directory">Opravilo ni dovoljeno v trenutni mapi.\n\nCiljna mapa ne more biti podmapa izvora ali enaka izvoru.</string>
-  <string name="msgs_push_again_to_exit">Ponovno pritisnite za izhod.</string>
   <string name="msgs_not_registered_app">Noben program ni vpisan za obravnavo izbrane vrste datoteke.</string>
   <string name="msgs_overwrite_files">Nekatere mape že obstajajo v ciljni mapi.\n\nPrepiši?</string>
   <string name="msgs_action_association_failed">Povezovanje dejanja s programom ni uspelo.</string>

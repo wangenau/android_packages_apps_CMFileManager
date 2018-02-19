@@ -66,7 +66,6 @@
   <string name="msgs_illegal_argument">Illegalt argument. Invokationen misslyckades.</string>
   <string name="msgs_unresolved_inconsistencies">Åtgärden är inte tillåten eftersom den skulle skapa motsägelser.</string>
   <string name="msgs_operation_not_allowed_in_current_directory">Åtgärden är inte tillåten i den nuvarande mappen.\n\nDestinationsmappen kan inte vara undermapp till källan eller samma som källan.</string>
-  <string name="msgs_push_again_to_exit">Tryck igen för att avsluta.</string>
   <string name="msgs_not_registered_app">Det finns ingen app registrerad för att hantera vald filtyp.</string>
   <string name="msgs_overwrite_files">Några av filerna finns redan i destinationsmappen.\n\nSkriva över?</string>
   <string name="msgs_action_association_failed">Associering av åtgärden till appen misslyckades.</string>

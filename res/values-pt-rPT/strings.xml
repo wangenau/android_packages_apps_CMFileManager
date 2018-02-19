@@ -67,7 +67,6 @@
   <string name="msgs_illegal_argument">Argumento ilegal. A invocação falhou.</string>
   <string name="msgs_unresolved_inconsistencies">A operação não é permitida porque iria criar inconsistências.</string>
   <string name="msgs_operation_not_allowed_in_current_directory">A operação não é permitida na pasta atual.\n\nA pasta de destino não pode ser subpasta da origem ou ser a mesma que a origem.</string>
-  <string name="msgs_push_again_to_exit">Clique novamente para sair.</string>
   <string name="msgs_not_registered_app">Não há nenhuma aplicação registada para abrir o tipo de ficheiro selecionado.</string>
   <string name="msgs_overwrite_files">Alguns dos ficheiros já existem na pasta de destino.\n\nSobrescrever?</string>
   <string name="msgs_action_association_failed">Associar a ação à aplicação falhou.</string>

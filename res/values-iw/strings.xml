@@ -67,7 +67,6 @@
   <string name="msgs_illegal_argument">טיעון בלתי חוקי. ההפעלה נכשלה.</string>
   <string name="msgs_unresolved_inconsistencies">הפעולה אסורה, היא תגרום לחוסר עקביות.</string>
   <string name="msgs_operation_not_allowed_in_current_directory">הפעולה אסורה בתיקייה הנוכחית.\n\nתיקיית היעד אינה יכולה להיות תת-תיקייה של תיקיית המקור או זהה למקור.</string>
-  <string name="msgs_push_again_to_exit">לחץ שוב ליציאה.</string>
   <string name="msgs_not_registered_app">אין יישום הרשום לטיפול בסוג קובץ זה.</string>
   <string name="msgs_overwrite_files">חלק מהקבצים כבר קיימים בתיקיית היעד. \n\n להחליף?</string>
   <string name="msgs_action_association_failed">שיוך הפעולה ליישום נכשלה.</string>

@@ -66,7 +66,6 @@
   <string name="msgs_illegal_argument">Argument il·legal. Ha fallat l\'invocació.</string>
   <string name="msgs_unresolved_inconsistencies">L\'operació no està permesa perquè crearia inconsistències.</string>
   <string name="msgs_operation_not_allowed_in_current_directory">L\'operació no està permesa en la carpeta actual.\n\nLa carpeta de destí no pot ser una subcarpeta de l\'origen o la mateixa que l\'origen.</string>
-  <string name="msgs_push_again_to_exit">Apreta un altre cop per sortir.</string>
   <string name="msgs_not_registered_app">No hi ha cap aplicació registrada per gestionar el tipus d\'arxiu seleccionat.</string>
   <string name="msgs_overwrite_files">Alguns dels arxius ja existeixen a la carpeta de destí.\n\nSobreescriurel\'s?</string>
   <string name="msgs_action_association_failed">L\'associació d\'aquesta acció a l\'aplicació ha fallat.</string>

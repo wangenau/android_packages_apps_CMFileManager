@@ -66,7 +66,6 @@
   <string name="msgs_illegal_argument">Neteisingas argumentas. Kreipimasis nepavyko.</string>
   <string name="msgs_unresolved_inconsistencies">Šis veiksmas neleidžiamas, nes tai sukels neatitikimų.</string>
   <string name="msgs_operation_not_allowed_in_current_directory">Veiksmas neleistinas dabartiniame aplanke.\n\nPaskirties vieta negali būti ta pati kaip šaltinio arba šaltinio poaplankio.</string>
-  <string name="msgs_push_again_to_exit">Paspauskite dar kartą norėdami išeiti.</string>
   <string name="msgs_not_registered_app">Nėra registruotos programos kuri tvarkytu pasirinktą failo tipą.</string>
   <string name="msgs_overwrite_files">Kai kurie failai jau egzistuoja aplanke.\n\nPerrašyti?</string>
   <string name="msgs_action_association_failed">Nepavyko susieti veiksmo, programai.</string>

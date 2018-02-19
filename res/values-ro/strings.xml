@@ -66,7 +66,6 @@
   <string name="msgs_illegal_argument">Argument ilegal. Invocarea nu a reușit.</string>
   <string name="msgs_unresolved_inconsistencies">Operațiunea nu este permisă pentru că ar crea incoerențe.</string>
   <string name="msgs_operation_not_allowed_in_current_directory">Operațiunea nu este permisă în dosarul curent.</string>
-  <string name="msgs_push_again_to_exit">Apăsați din nou pentru a ieși.</string>
   <string name="msgs_not_registered_app">Nu există nicio aplicație înregistrată care ar deschide tipul de fișier selectat.</string>
   <string name="msgs_overwrite_files">Unele dintre fișiere există deja în dosarul destinație.\n\nSuprascrieți?</string>
   <string name="msgs_action_association_failed">Asocierea acțiunii la aplicație a eșuat.</string>

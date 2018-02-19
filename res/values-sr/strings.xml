@@ -66,7 +66,6 @@
   <string name="msgs_illegal_argument">Нелегалан аргумент. Позив није успео.</string>
   <string name="msgs_unresolved_inconsistencies">Операција није дозвољена јер би довела до неконзистенција.</string>
   <string name="msgs_operation_not_allowed_in_current_directory">Операција није дозвољена у текућем фолдеру.\n\nЦиљни фолдер не може бити подфолдер изворног или исти као изворни.</string>
-  <string name="msgs_push_again_to_exit">Притисни опет за излаз.</string>
   <string name="msgs_not_registered_app">Нема регистроване апликације за обраду типа изабраног фајла.</string>
   <string name="msgs_overwrite_files">Неки фајлови већ постоје у циљном фолдеру.\n\nПрепиши их?</string>
   <string name="msgs_action_association_failed">Асоцирање акције на апликацију није успело.</string>

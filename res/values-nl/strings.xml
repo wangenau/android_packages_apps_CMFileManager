@@ -66,7 +66,6 @@
   <string name="msgs_illegal_argument">Ongeldig argument. Activering mislukt.</string>
   <string name="msgs_unresolved_inconsistencies">Deze bewerking is niet toegestaan omdat het inconsistenties zal veroorzaken.</string>
   <string name="msgs_operation_not_allowed_in_current_directory">Deze bewerking is niet toegestaan in de huidige map.\n\nDe doelmap kan niet hetzelfde zijn als de bron of een submap zijn van de bron.</string>
-  <string name="msgs_push_again_to_exit">Tik nogmaals om af te sluiten.</string>
   <string name="msgs_not_registered_app">Er is geen app geïnstalleerd om het geselecteerde bestandstype te openen.</string>
   <string name="msgs_overwrite_files">Een aantal bestanden bestaat al in de doelmap.\n\nOverschrijven?</string>
   <string name="msgs_action_association_failed">Koppelen van de actie aan de app is mislukt.</string>

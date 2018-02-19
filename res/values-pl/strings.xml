@@ -66,7 +66,6 @@
   <string name="msgs_illegal_argument">Niedozwolony argument. Wywołanie nie powiodło się.</string>
   <string name="msgs_unresolved_inconsistencies">Operacja nie jest możliwa, ponieważ spowodowałaby niespójności.</string>
   <string name="msgs_operation_not_allowed_in_current_directory">Operacja nie jest dozwolona w bieżącym folderze.\n\nDocelowy folder nie może być podfolderem źródła lub taki sam jak źródło.</string>
-  <string name="msgs_push_again_to_exit">Naciśnij ponownie, aby wyjść.</string>
   <string name="msgs_not_registered_app">Nie znaleziono żadnej aplikacji zdolnej do uruchomienia wskazanego typu pliku.</string>
   <string name="msgs_overwrite_files">Niektóre pliki już istnieją w folderze docelowym.\n\nNadpisać?</string>
   <string name="msgs_action_association_failed">Przypisywanie czynności do aplikacji nie powiodło się.</string>

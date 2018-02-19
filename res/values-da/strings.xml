@@ -66,7 +66,6 @@
   <string name="msgs_illegal_argument">Ugyldigt argument. Aktivering mislykkedes.</string>
   <string name="msgs_unresolved_inconsistencies">Handlingen er ikke tilladt, da den vil skabe uoverensstemmelser.</string>
   <string name="msgs_operation_not_allowed_in_current_directory">Handlingen er ikke tilladt i denne mappe.</string>
-  <string name="msgs_push_again_to_exit">Tryk igen for at afslutte.</string>
   <string name="msgs_not_registered_app">Der er ikke registreret noget program til at håndtere den valgte filtype.</string>
   <string name="msgs_overwrite_files">Nogle af filerne findes allerede i destinationsmappen.\n\nOverskriv?</string>
   <string name="msgs_action_association_failed">Det lykkedes ikke at tilknytte handlingen til programmet.</string>

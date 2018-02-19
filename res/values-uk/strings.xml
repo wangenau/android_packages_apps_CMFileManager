@@ -66,7 +66,6 @@
   <string name="msgs_illegal_argument">Неприпустимий аргумент. Виклик не вдався.</string>
   <string name="msgs_unresolved_inconsistencies">Операція не допускається, оскільки це створить невідповідності.</string>
   <string name="msgs_operation_not_allowed_in_current_directory">Операція не допускається в поточній папці.\n\nПапка призначення не може бути вкладеною папкою джерела або самим джерелом.</string>
-  <string name="msgs_push_again_to_exit">Натисніть ще раз для виходу</string>
   <string name="msgs_not_registered_app">Не знайдено застосунків для відкриття файлів даного типу</string>
   <string name="msgs_overwrite_files">Деякі файли вже існують в папці призначення.\n\nЗамінити?</string>
   <string name="msgs_action_association_failed">Прив’язка додатка до дії не вдалася</string>

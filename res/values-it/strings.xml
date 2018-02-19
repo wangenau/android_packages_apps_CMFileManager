@@ -66,7 +66,6 @@
   <string name="msgs_illegal_argument">Argomento non valido. Chiamata al comando fallita.</string>
   <string name="msgs_unresolved_inconsistencies">Operazione non permessa, in quanto potrebbe produrre inconsistenze.</string>
   <string name="msgs_operation_not_allowed_in_current_directory">Operazione non permessa nella cartella corrente.</string>
-  <string name="msgs_push_again_to_exit">Premere ancora per uscire.</string>
   <string name="msgs_not_registered_app">Nessuna app registrata per gestire il tipo di file selezionato.</string>
   <string name="msgs_overwrite_files">Alcuni file esistono già nella cartella destinazione.\n\nSovrascrivere?</string>
   <string name="msgs_action_association_failed">Impossibile associare l\'azione all\'app.</string>

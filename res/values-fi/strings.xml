@@ -66,7 +66,6 @@
   <string name="msgs_illegal_argument">Väite virheellinen. Komento epäonnistui.</string>
   <string name="msgs_unresolved_inconsistencies">Komentoa ei suoritettu koska se loisi ristiriitoja.</string>
   <string name="msgs_operation_not_allowed_in_current_directory">Komentoa ei voi suorittaa nykyisessä kansiossa.\n\nKohdekansio ei voi olla lähdekansion alikansio.</string>
-  <string name="msgs_push_again_to_exit">Paina uudestaan poistuaksesi.</string>
   <string name="msgs_not_registered_app">Mitään sovellusta ei ole rekisteröity avaamaan tätä tiedostotyyppiä.</string>
   <string name="msgs_overwrite_files">Osa tiedostoista on jo kohdekansiossa.\n\nKorvataanko?</string>
   <string name="msgs_action_association_failed">Tehtävän yhdistäminen sovellukseen epäonnistui.</string>

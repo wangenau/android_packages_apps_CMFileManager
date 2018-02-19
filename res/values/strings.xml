@@ -126,7 +126,6 @@
     <string name="msgs_operation_not_allowed_in_current_directory">The operation is not permitted in current folder.\n\nDestination folder cannot be subfolder of source or be same as source.</string>
 
     <!-- The advice message prior to exit the app -->
-    <string name="msgs_push_again_to_exit">Press again to exit.</string>
 
     <!-- There is no registered app that can handle the mime-type -->
     <string name="msgs_not_registered_app">There is no app registered to handle the type of file selected.</string>

@@ -66,7 +66,6 @@
   <string name="msgs_illegal_argument">Argumento no válido. No se pudo completar la invocación.</string>
   <string name="msgs_unresolved_inconsistencies">La operación no está permitida porque podría crear incoherencias.</string>
   <string name="msgs_operation_not_allowed_in_current_directory">La operación no está permitida en la carpeta actual.\n\nLa carpeta de destino no puede ser una subcarpeta de la de origen o ser la misma que la de origen.</string>
-  <string name="msgs_push_again_to_exit">Presiona de nuevo para salir.</string>
   <string name="msgs_not_registered_app">No hay ninguna aplicación registrada para el tipo de archivo seleccionado.</string>
   <string name="msgs_overwrite_files">Algunos de los archivos ya existen en la carpeta de destino.\n\n¿Sobrescribir?</string>
   <string name="msgs_action_association_failed">No se pudo asociar la acción a la aplicación.</string>

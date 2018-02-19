@@ -66,7 +66,6 @@
   <string name="msgs_illegal_argument">Illegal argument. Invocation failed.</string>
   <string name="msgs_unresolved_inconsistencies">The operation is not permitted because it would create inconsistencies.</string>
   <string name="msgs_operation_not_allowed_in_current_directory">The operation is not permitted in current folder.\n\nDestination folder cannot be subfolder of source or be same as source.</string>
-  <string name="msgs_push_again_to_exit">Press again to exit.</string>
   <string name="msgs_not_registered_app">There is no app registered to handle the type of file selected.</string>
   <string name="msgs_overwrite_files">Some of the files already exist in the destination folder.\n\nOverwrite?</string>
   <string name="msgs_action_association_failed">Associating the action to the app failed.</string>

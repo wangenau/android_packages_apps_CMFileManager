@@ -66,7 +66,6 @@
   <string name="msgs_illegal_argument">無效參數。調用失敗。</string>
   <string name="msgs_unresolved_inconsistencies">此動作不被允許，因爲它會產生不一致性。</string>
   <string name="msgs_operation_not_allowed_in_current_directory">此動作在目前所在的資料夾是不被允許的。\n\n目標資料夾不能爲來源資料夾或來源的子資料夾</string>
-  <string name="msgs_push_again_to_exit">再按一次即可退出。</string>
   <string name="msgs_not_registered_app">沒有任何應用程式與此類檔案關聯。</string>
   <string name="msgs_overwrite_files">有些檔案已存在於目標資料夾內。\n\n是否覆寫？</string>
   <string name="msgs_action_association_failed">程式與動作的關聯失敗。</string>

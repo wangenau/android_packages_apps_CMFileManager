@@ -66,7 +66,6 @@
   <string name="msgs_illegal_argument">Argumentu illegal. Invocación fallida.</string>
   <string name="msgs_unresolved_inconsistencies">La operación nun ta permitida porque podría crear inconsistencies.</string>
   <string name="msgs_operation_not_allowed_in_current_directory">La operación nun ta permitida na carpeta actual.\n\nLa carpeta de destín nun pue ser una subcarpeta de l\'actual o ser la mesma que l\'actual.</string>
-  <string name="msgs_push_again_to_exit">Calca pa salir.</string>
   <string name="msgs_not_registered_app">Nun hai nenguna aplicación rexistrada p\'abrir la triba de ficheru esbilláu.</string>
   <string name="msgs_overwrite_files">Dalgún de los ficheros esiste na carpeta de destín. \n\n¿Sobrescribir?</string>
   <string name="msgs_action_association_failed">Hebo un fallu al asociar l\'aición a l\'aplicación.</string>
