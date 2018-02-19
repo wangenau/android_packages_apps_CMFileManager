@@ -25,7 +25,7 @@ LOCAL_SRC_FILES += $(call all-java-files-under, libs/color-picker-view/src)
 LOCAL_STATIC_JAVA_LIBRARIES := libtruezip
 
 LOCAL_RESOURCE_DIR := $(addprefix $(LOCAL_PATH)/, themes/res res)
-LOCAL_AAPT_INCLUDE_ALL_RESOURCES := true
+PRODUCT_AAPT_PREF_CONFIG := hdpi
 LOCAL_AAPT_FLAGS := --auto-add-overlay
 
 LOCAL_PACKAGE_NAME := CMFileManager
